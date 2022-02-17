@@ -475,6 +475,13 @@ margin-left: 120px;
   .about .image img {
     max-width: 100%;
   }
+  #about h2{
+    font-size: 28px;
+
+  }
+#header .container{
+    width: 100%;
+  }
 }
 
 /*--------------------------------------------------------------
