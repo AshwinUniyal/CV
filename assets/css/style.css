@@ -482,6 +482,9 @@ margin-left: 120px;
 #header .container{
     width: 100%;
   }
+  div form input{
+    width: 90%;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -582,6 +585,9 @@ margin-left: 120px;
   top: 0;
   background: #fff;
   border: 2px solid #1DB9C3;
+}
+.brk{
+  overflow-wrap: break-word;
 }
 /*--------------------------------------------------------------
 # Contact
