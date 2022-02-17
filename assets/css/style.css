@@ -461,6 +461,15 @@ margin-left: 120px;
   min-height: 600px;
 }
 @media (max-width: 991px) {
+    #hero{
+    height: 35vh;
+  }
+  #hero .btn-get-started{
+    font-size: 50px;
+  }
+  .about{
+    text-align: center;
+  }
   .about .image {
     text-align: center;
   }
